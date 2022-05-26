@@ -1,0 +1,6 @@
+config:
+  aws:region: us-west-2
+  starter-stapp:name: stapp
+  starter-stapp:domain: ai2incubator.com
+  starter-stapp:subDomain: stapp
+  starter-stapp:memory: 1024
